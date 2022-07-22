@@ -10,7 +10,7 @@ const Declarative = () => {
             <p>
                 React makes it
                 paintless to create
-                intsractive UIs.
+                interactive UIs.
             </p>                   
         </div>
     );

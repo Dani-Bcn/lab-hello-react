@@ -11,7 +11,7 @@ export default function App() {
       <header className='header'>
         <div className='cardHeader'>
           <h1>Say hello to ReactJS</h1>
-          <p> You will learn to use the most popular fontend library,and become a super Ninja devloper. </p>
+          <p> You will learn to use the most popular fontend library,and become a super Ninja developer. </p>
           <Button />
         </div>    
       </header>
